@@ -94,3 +94,68 @@ Berikut adalah beberapa kekurangan HTML:
 7. **Tidak dapat membuat aplikasi web yang dapat diakses oleh pengguna yang memiliki kebutuhan khusus**: HTML tidak dapat membuat aplikasi web yang dapat diakses oleh pengguna yang memiliki kebutuhan khusus, seperti pengguna yang memiliki disabilitas atau pengguna yang menggunakan perangkat yang tidak kompatibel.
 
 Dalam keseluruhan, HTML memiliki kelebihan dan kekurangan, dan pengembang harus mempertimbangkan kebutuhan aplikasi web yang mereka buat sebelum memilih bahasa markup untuk digunakan.
+
+**Tag Dasar HTML**
+
+Tag dasar HTML adalah elemen-elemen dasar yang digunakan untuk membuat struktur dokumen HTML. Berikut adalah contoh tag dasar HTML:
+
+1. **\<!DOCTYPE html>**
+	* Tag ini digunakan untuk menentukan jenis dokumen HTML.
+	* Contoh:
+```html
+<!DOCTYPE html>
+```
+2. **\<html>**
+	* Tag ini digunakan untuk menentukan awal dokumen HTML.
+	* Contoh:
+```html
+<html>
+```
+3. **\<head>**
+	* Tag ini digunakan untuk menentukan bagian kepala dokumen HTML, yang berisi informasi tentang dokumen, seperti judul, meta tag, dan CSS.
+	* Contoh:
+```html
+<head>
+	<title>Contoh Dokumen HTML</title>
+</head>
+```
+4. **\<body>**
+	* Tag ini digunakan untuk menentukan bagian tubuh dokumen HTML, yang berisi konten dokumen.
+	* Contoh:
+```html
+<body>
+	<h1>Contoh Dokumen HTML</h1>
+</body>
+```
+**Struktur Dokumen HTML**
+
+Berikut adalah struktur dokumen HTML yang terdiri dari tag dasar:
+
+1. **\<!DOCTYPE html>**
+2. **\<html>**
+3. **\<head>**
+	* Judul dokumen
+	* Meta tag
+	* CSS
+4. **\</head>**
+5. **\<body>**
+	* Konten dokumen
+6. **\</body>**
+7. **\</html>**
+
+**Contoh Dokumen HTML Lengkap**
+
+Berikut adalah contoh dokumen HTML yang lengkap:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Dokumen HTML</title>
+</head>
+<body>
+	<h1>Contoh Dokumen HTML</h1>
+	<p>Berikut adalah contoh dokumen HTML.</p>
+</body>
+</html>
+```
+Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang lengkap, yang terdiri dari tag dasar <!DOCTYPE html>, <html>, <head>, <body>, dan elemen-elemen lainnya.
