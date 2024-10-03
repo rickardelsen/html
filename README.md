@@ -414,3 +414,163 @@ Dalam contoh di atas, kita telah menggunakan atribut `href`, `title`, `target`, 
 * Gunakan atribut `title` untuk menentukan judul tautan yang sesuai.
 * Gunakan atribut `target` untuk menentukan target tautan yang sesuai.
 * Gunakan atribut `rel` untuk menentukan relasi tautan yang sesuai.
+
+**Atribut id dan Class**
+
+Atribut `id` dan `class` digunakan untuk menentukan identitas dan kelas pada elemen HTML.
+
+**Atribut id**
+
+Atribut `id` digunakan untuk menentukan identitas unik pada elemen HTML. Identitas unik ini dapat digunakan untuk mengidentifikasi elemen yang spesifik.
+
+Contoh penggunaan atribut `id`:
+```html
+<div id="header">Header</div>
+```
+Dalam contoh di atas, atribut `id` digunakan untuk menentukan identitas unik pada elemen `<div>`. Identitas unik ini dapat digunakan untuk mengidentifikasi elemen yang spesifik.
+
+**Atribut class**
+
+Atribut `class` digunakan untuk menentukan kelas pada elemen HTML. Kelas dapat digunakan untuk mengidentifikasi grup elemen yang memiliki karakteristik yang sama.
+
+Contoh penggunaan atribut `class`:
+```html
+<div class="header">Header</div>
+<div class="footer">Footer</div>
+```
+Dalam contoh di atas, atribut `class` digunakan untuk menentukan kelas pada elemen `<div>`. Kelas `header` digunakan untuk mengidentifikasi elemen yang memiliki karakteristik yang sama, yaitu sebagai header.
+
+**Contoh Penggunaan Atribut id dan class Bersamaan**
+
+Contoh penggunaan atribut `id` dan `class` bersamaan:
+```html
+<div id="header" class="main-header">Header</div>
+```
+Dalam contoh di atas, atribut `id` digunakan untuk menentukan identitas unik pada elemen `<div>`, sedangkan atribut `class` digunakan untuk menentukan kelas pada elemen `<div>`.
+
+**Tips dan Trik**
+
+* Pastikan untuk menggunakan atribut `id` dan `class` yang unik dan tidak berselang-seling.
+* Pastikan untuk menggunakan atribut `id` dan `class` yang sesuai dengan konteks elemen.
+* Gunakan atribut `id` untuk mengidentifikasi elemen yang spesifik, sedangkan gunakan atribut `class` untuk mengidentifikasi grup elemen yang memiliki karakteristik yang sama.
+
+**Contoh Penggunaan Atribut id dan class dalam CSS**
+
+Contoh penggunaan atribut `id` dan `class` dalam CSS:
+```css
+#header {
+  background-color: #333;
+  color: #fff;
+}
+
+.main-header {
+  font-size: 24px;
+  font-weight: bold;
+}
+```
+Dalam contoh di atas, atribut `id` dan `class` digunakan dalam CSS untuk mengidentifikasi elemen yang spesifik dan mengatur properti CSS yang sesuai.
+
+**Atribut src dan href**
+
+Atribut `src` dan `href` digunakan untuk menentukan alamat sumber dan hyperlink pada elemen HTML.
+
+**Atribut src**
+
+Atribut `src` digunakan untuk menentukan alamat sumber suatu file, seperti gambar, video, atau audio. Atribut `src` digunakan pada elemen `<img>`, `<video>`, `<audio>`, dan elemen lainnya.
+
+Contoh penggunaan atribut `src`:
+```html
+<img src="gambar.jpg" alt="Gambar">
+```
+Dalam contoh di atas, atribut `src` digunakan untuk menentukan alamat sumber suatu file gambar, yaitu `gambar.jpg`.
+
+**Atribut href**
+
+Atribut `href` digunakan untuk menentukan alamat hyperlink pada elemen HTML. Atribut `href` digunakan pada elemen `<a>`, `<link>`, dan elemen lainnya.
+
+Contoh penggunaan atribut `href`:
+```html
+<a href="https://www.google.com">Klik untuk ke Google</a>
+```
+Dalam contoh di atas, atribut `href` digunakan untuk menentukan alamat hyperlink pada elemen `<a>`, yaitu `https://www.google.com`.
+
+**Contoh Penggunaan Atribut src dan href Bersamaan**
+
+Contoh penggunaan atribut `src` dan `href` bersamaan:
+```html
+<a href="https://www.google.com">
+  <img src="gambar.jpg" alt="Gambar">
+</a>
+```
+Dalam contoh di atas, atribut `src` digunakan untuk menentukan alamat sumber suatu file gambar, yaitu `gambar.jpg`, sedangkan atribut `href` digunakan untuk menentukan alamat hyperlink pada elemen `<a>`, yaitu `https://www.google.com`.
+
+**Tips dan Trik**
+
+* Pastikan untuk menggunakan atribut `src` dan `href` yang benar dan lengkap.
+* Pastikan untuk menggunakan atribut `src` dan `href` yang sesuai dengan konteks elemen.
+* Gunakan atribut `src` untuk menentukan alamat sumber suatu file, sedangkan gunakan atribut `href` untuk menentukan alamat hyperlink.
+
+**Contoh Penggunaan Atribut src dan href dalam CSS**
+
+Contoh penggunaan atribut `src` dan `href` dalam CSS:
+```css
+img[src$=".jpg"] {
+  width: 100px;
+  height: 100px;
+}
+
+a[href^="https://"] {
+  color: blue;
+  text-decoration: none;
+}
+```
+Dalam contoh di atas, atribut `src` dan `href` digunakan dalam CSS untuk mengidentifikasi elemen yang spesifik dan mengatur properti CSS yang sesuai.
+
+**Atribut style**
+
+Atribut `style` digunakan untuk menentukan gaya dan tata letak pada elemen HTML. Atribut `style` dapat digunakan untuk mengatur properti seperti warna, ukuran, font, dan lain-lain.
+
+**Contoh Penggunaan Atribut style**
+
+Contoh penggunaan atribut `style`:
+```html
+<p style="color: blue; font-size: 24px;">Halo, dunia!</p>
+```
+Dalam contoh di atas, atribut `style` digunakan untuk menentukan gaya pada elemen `<p>`. Atribut `style` menentukan warna teks menjadi biru (`color: blue;`) dan ukuran teks menjadi 24 pixel (`font-size: 24px;`).
+
+**Properti yang Dapat Digunakan pada Atribut style**
+
+Berikut adalah beberapa properti yang dapat digunakan pada atribut `style`:
+
+* `color`: Menentukan warna teks.
+* `font-size`: Menentukan ukuran teks.
+* `font-family`: Menentukan jenis font.
+* `background-color`: Menentukan warna latar belakang.
+* `padding`: Menentukan jarak antara teks dan tepi elemen.
+* `margin`: Menentukan jarak antara elemen dan elemen lainnya.
+
+**Contoh Penggunaan Atribut style untuk Mengatur Properti**
+
+Contoh penggunaan atribut `style` untuk mengatur properti:
+```html
+<p style="color: blue; font-size: 24px; font-family: Arial;">Halo, dunia!</p>
+```
+Dalam contoh di atas, atribut `style` digunakan untuk menentukan gaya pada elemen `<p>`. Atribut `style` menentukan warna teks menjadi biru (`color: blue;`), ukuran teks menjadi 24 pixel (`font-size: 24px;`), dan jenis font menjadi Arial (`font-family: Arial;`).
+
+**Tips dan Trik**
+
+* Pastikan untuk menggunakan atribut `style` yang benar dan lengkap.
+* Pastikan untuk menggunakan atribut `style` yang sesuai dengan konteks elemen.
+* Gunakan atribut `style` untuk mengatur properti yang sesuai dengan kebutuhan.
+
+**Contoh Penggunaan Atribut style dalam CSS**
+
+Contoh penggunaan atribut `style` dalam CSS:
+```css
+p {
+  color: blue;
+  font-size: 24px;
+  font-family: Arial;
+}
+```
+Dalam contoh di atas, atribut `style` digunakan dalam CSS untuk mengatur properti pada elemen `<p>`. Atribut `style` menentukan warna teks menjadi biru, ukuran teks menjadi 24 pixel, dan jenis font menjadi Arial.
