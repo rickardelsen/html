@@ -220,4 +220,51 @@ Berikut adalah contoh dokumen HTML yang benar:
 </body>
 </html>
 ```
-Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang benar, yang terdiri dari tag dasar <!DOCTYPE html>, <html>, <head>, <body>, dan elemen-elemen lainnya.
+Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang benar, yang terdiri dari tag dasar \<!DOCTYPE html>, \<html>, \<head>, \<body>, dan elemen-elemen lainnya.
+
+**Element \<h1>, \<h2>, \<h3> untuk Judul**
+
+Element `<h1>`, `<h2>`, `<h3>` digunakan untuk menentukan judul pada dokumen HTML. Judul adalah teks yang digunakan untuk memberikan informasi tentang isi dokumen.
+
+**Element \<h1>**
+
+Element `<h1>` digunakan untuk menentukan judul utama pada dokumen HTML. Judul utama adalah judul yang paling penting dan menonjol.
+
+Contoh:
+```html
+<h1>Contoh Dokumen HTML</h1>
+```
+**Element \<h2>**
+
+Element `<h2>` digunakan untuk menentukan judul kedua pada dokumen HTML. Judul kedua adalah judul yang penting tetapi tidak sepenting judul utama.
+
+Contoh:
+```html
+<h2>Sub Judul Utama</h2>
+```
+**Element \<h3>**
+
+Element `<h3>` digunakan untuk menentukan judul ketiga pada dokumen HTML. Judul ketiga adalah judul yang penting tetapi tidak sepenting judul utama dan judul kedua.
+
+Contoh:
+```html
+<h3>Sub Sub Judul Utama</h3>
+```
+**Contoh Dokumen HTML yang Menggunakan Element \<h1>, \<h2>, \<h3>**
+
+Berikut adalah contoh dokumen HTML yang menggunakan element `<h1>`, `<h2>`, dan `<h3>`:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Dokumen HTML</title>
+</head>
+<body>
+	<h1>Contoh Dokumen HTML</h1>
+	<h2>Sub Judul Utama</h2>
+	<h3>Sub Sub Judul Utama</h3>
+	<p>Berikut adalah contoh dokumen HTML.</p>
+</body>
+</html>
+```
+Dalam contoh di atas, kita telah menggunakan element `<h1>`, `<h2>`, dan `<h3>` untuk menentukan judul pada dokumen HTML. Judul utama adalah `<h1>Contoh Dokumen HTML</h1>`, judul kedua adalah `<h2>Sub Judul Utama</h2>`, dan judul ketiga adalah `<h3>Sub Sub Judul Utama</h3>`.
