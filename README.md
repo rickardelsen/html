@@ -268,3 +268,45 @@ Berikut adalah contoh dokumen HTML yang menggunakan element `<h1>`, `<h2>`, dan 
 </html>
 ```
 Dalam contoh di atas, kita telah menggunakan element `<h1>`, `<h2>`, dan `<h3>` untuk menentukan judul pada dokumen HTML. Judul utama adalah `<h1>Contoh Dokumen HTML</h1>`, judul kedua adalah `<h2>Sub Judul Utama</h2>`, dan judul ketiga adalah `<h3>Sub Sub Judul Utama</h3>`.
+
+**Element <p> untuk Paragraf**
+
+Element `<p>` digunakan untuk menentukan paragraf pada dokumen HTML. Paragraf adalah blok teks yang terdiri dari beberapa kalimat yang saling terkait.
+
+**Struktur Element \<p>**
+
+Struktur element `<p>` adalah sebagai berikut:
+```html
+<p>Isi paragraf</p>
+```
+**Contoh Element \<p>**
+
+Berikut adalah contoh element `<p>`:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Dokumen HTML</title>
+</head>
+<body>
+	<p>Berikut adalah contoh paragraf.</p>
+	<p>Paragraf ini berisi beberapa kalimat yang saling terkait.</p>
+	<p>Paragraf ini juga berisi beberapa kalimat yang saling terkait.</p>
+</body>
+</html>
+```
+Dalam contoh di atas, kita telah menggunakan element `<p>` untuk menentukan paragraf pada dokumen HTML. Tiap paragraf memiliki isi yang berbeda-beda.
+
+**Attribut Element \<p>**
+
+Element `<p>` juga memiliki beberapa atribut yang dapat digunakan untuk menentukan karakteristik paragraf. Berikut adalah beberapa atribut yang dapat digunakan:
+* `align`: Digunakan untuk menentukan alignment paragraf, seperti `left`, `right`, atau `center`.
+* `valign`: Digunakan untuk menentukan vertical alignment paragraf, seperti `top`, `bottom`, atau `middle`.
+* `style`: Digunakan untuk menentukan gaya paragraf, seperti `font-size`, `font-family`, atau `color`.
+
+Contoh penggunaan atribut `align` dan `valign` pada element `<p>`:
+```html
+<p align="center">Berikut adalah contoh paragraf yang diatur dengan atribut align.</p>
+<p valign="top">Berikut adalah contoh paragraf yang diatur dengan atribut valign.</p>
+```
+Dalam contoh di atas, kita telah menggunakan atribut `align` dan `valign` pada element `<p>` untuk menentukan alignment dan vertical alignment paragraf.
