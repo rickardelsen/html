@@ -363,3 +363,54 @@ Dalam contoh di atas, kita telah menggunakan atribut `src`, `alt`, `width`, dan 
 * Gunakan atribut `width` dan `height` untuk menentukan ukuran gambar yang tepat.
 * Gunakan atribut `title` untuk menentukan judul gambar yang sesuai.
 * Gunakan atribut `border` untuk menentukan lebar garis sekitar gambar yang sesuai.
+
+**Element \<a> untuk Tautan**
+
+Element `<a>` digunakan untuk menentukan tautan pada dokumen HTML. Tautan adalah link yang dapat digunakan untuk mengakses informasi lainnya.
+
+**Struktur Element \<a>**
+
+Struktur element `<a>` adalah sebagai berikut:
+```html
+<a href="alamat_tautan">teks_tautan</a>
+```
+Dalam struktur di atas, `href` digunakan untuk menentukan alamat tautan, sedangkan `teks_tautan` digunakan untuk menentukan teks yang akan digunakan sebagai tautan.
+
+**Contoh Element \<a>**
+
+Berikut adalah contoh element `<a>`:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Dokumen HTML</title>
+</head>
+<body>
+	<a href="https://www.google.com">Klik untuk ke Google</a>
+	<p>Berikut adalah contoh tautan.</p>
+</body>
+</html>
+```
+Dalam contoh di atas, kita telah menggunakan element `<a>` untuk menentukan tautan pada dokumen HTML. Alamat tautan yang digunakan adalah `https://www.google.com`, sedangkan teks tautan adalah `Klik untuk ke Google`.
+
+**Attribut Element \<a>**
+
+Element `<a>` juga memiliki beberapa atribut yang dapat digunakan untuk menentukan karakteristik tautan. Berikut adalah beberapa atribut yang dapat digunakan:
+* `href`: Digunakan untuk menentukan alamat tautan.
+* `title`: Digunakan untuk menentukan judul tautan.
+* `target`: Digunakan untuk menentukan target tautan, seperti `_blank` untuk membuka tautan dalam jendela baru.
+* `rel`: Digunakan untuk menentukan relasi tautan, seperti `nofollow` untuk menghindari crawl tautan oleh mesin pencari.
+
+Contoh penggunaan atribut `href`, `title`, `target`, dan `rel` pada element `<a>`:
+```html
+<a href="https://www.google.com" title="Klik untuk ke Google" target="_blank" rel="nofollow">Klik untuk ke Google</a>
+```
+Dalam contoh di atas, kita telah menggunakan atribut `href`, `title`, `target`, dan `rel` pada element `<a>` untuk menentukan karakteristik tautan.
+
+**Tips dan Trik**
+
+* Pastikan untuk menggunakan alamat tautan yang benar dan lengkap.
+* Pastikan untuk menggunakan teks tautan yang sesuai dan lengkap.
+* Gunakan atribut `title` untuk menentukan judul tautan yang sesuai.
+* Gunakan atribut `target` untuk menentukan target tautan yang sesuai.
+* Gunakan atribut `rel` untuk menentukan relasi tautan yang sesuai.
