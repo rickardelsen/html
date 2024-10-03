@@ -159,3 +159,65 @@ Berikut adalah contoh dokumen HTML yang lengkap:
 </html>
 ```
 Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang lengkap, yang terdiri dari tag dasar <!DOCTYPE html>, <html>, <head>, <body>, dan elemen-elemen lainnya.
+
+**Struktur Dokumen HTML yang Benar**
+
+Struktur dokumen HTML yang benar adalah sebagai berikut:
+
+1. **\<!DOCTYPE html>**
+	* Tag ini digunakan untuk menentukan jenis dokumen HTML.
+2. **\<html>**
+	* Tag ini digunakan untuk menentukan awal dokumen HTML.
+3. **\<head>**
+	* Tag ini digunakan untuk menentukan bagian kepala dokumen HTML, yang berisi informasi tentang dokumen, seperti judul, meta tag, dan CSS.
+4. **\<title>**
+	* Tag ini digunakan untuk menentukan judul dokumen HTML.
+5. **\<meta>**
+	* Tag ini digunakan untuk menentukan meta tag, yang berisi informasi tentang dokumen, seperti deskripsi, kata kunci, dan atribut lainnya.
+6. **\<link>**
+	* Tag ini digunakan untuk menentukan tautan ke file CSS atau file lainnya.
+7. **\<script>**
+	* Tag ini digunakan untuk menentukan kode JavaScript.
+8. **\</head>**
+9. **\<body>**
+	* Tag ini digunakan untuk menentukan bagian tubuh dokumen HTML, yang berisi konten dokumen.
+10. **\<h1>**, **\<h2>**, **\<h3>**, **\<h4>**, **\<h5>**, **\<h6>**
+	* Tag ini digunakan untuk menentukan judul dokumen HTML.
+11. **\<p>**
+	* Tag ini digunakan untuk menentukan paragraf dokumen HTML.
+12. **\<img>**
+	* Tag ini digunakan untuk menentukan gambar dokumen HTML.
+13. **\<a>**
+	* Tag ini digunakan untuk menentukan tautan dokumen HTML.
+14. **\<ul>**, **\<ol>**, **\<li>**
+	* Tag ini digunakan untuk menentukan daftar dokumen HTML.
+15. **\</body>**
+16. **\</html>**
+
+**Contoh Dokumen HTML yang Benar**
+
+Berikut adalah contoh dokumen HTML yang benar:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Dokumen HTML</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<script src="script.js"></script>
+</head>
+<body>
+	<h1>Contoh Dokumen HTML</h1>
+	<p>Berikut adalah contoh dokumen HTML.</p>
+	<img src="gambar.jpg" alt="Gambar Contoh">
+	<a href="https://www.google.com">Klik untuk ke Google</a>
+	<ul>
+		<li>Punkt 1</li>
+		<li>Punkt 2</li>
+		<li>Punkt 3</li>
+	</ul>
+</body>
+</html>
+```
+Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang benar, yang terdiri dari tag dasar <!DOCTYPE html>, <html>, <head>, <body>, dan elemen-elemen lainnya.
