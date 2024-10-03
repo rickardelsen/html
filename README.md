@@ -310,3 +310,56 @@ Contoh penggunaan atribut `align` dan `valign` pada element `<p>`:
 <p valign="top">Berikut adalah contoh paragraf yang diatur dengan atribut valign.</p>
 ```
 Dalam contoh di atas, kita telah menggunakan atribut `align` dan `valign` pada element `<p>` untuk menentukan alignment dan vertical alignment paragraf.
+
+**Element \<img> untuk Gambar**
+
+Element `<img>` digunakan untuk menampilkan gambar pada dokumen HTML. Gambar dapat berupa foto, logo, atau icon.
+
+**Struktur Element \<img>**
+
+Struktur element `<img>` adalah sebagai berikut:
+```html
+<img src="alamat_gambar.jpg" alt="deskripsi_gambar">
+```
+Dalam struktur di atas, `src` digunakan untuk menentukan alamat gambar, sedangkan `alt` digunakan untuk menentukan deskripsi gambar.
+
+**Contoh Element \<img>**
+
+Berikut adalah contoh element `<img>`:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Dokumen HTML</title>
+</head>
+<body>
+	<img src="gambar.jpg" alt="Gambar Contoh">
+	<p>Berikut adalah contoh gambar.</p>
+</body>
+</html>
+```
+Dalam contoh di atas, kita telah menggunakan element `<img>` untuk menampilkan gambar pada dokumen HTML. Alamat gambar yang digunakan adalah `gambar.jpg`, sedangkan deskripsi gambar adalah `Gambar Contoh`.
+
+**Attribut Element \<img>**
+
+Element `<img>` juga memiliki beberapa atribut yang dapat digunakan untuk menentukan karakteristik gambar. Berikut adalah beberapa atribut yang dapat digunakan:
+* `src`: Digunakan untuk menentukan alamat gambar.
+* `alt`: Digunakan untuk menentukan deskripsi gambar.
+* `width`: Digunakan untuk menentukan lebar gambar.
+* `height`: Digunakan untuk menentukan tinggi gambar.
+* `title`: Digunakan untuk menentukan judul gambar.
+* `border`: Digunakan untuk menentukan lebar garis sekitar gambar.
+
+Contoh penggunaan atribut `src`, `alt`, `width`, dan `height` pada element `<img>`:
+```html
+<img src="gambar.jpg" alt="Gambar Contoh" width="200" height="150">
+```
+Dalam contoh di atas, kita telah menggunakan atribut `src`, `alt`, `width`, dan `height` pada element `<img>` untuk menentukan karakteristik gambar.
+
+**Tips dan Trik**
+
+* Pastikan untuk menggunakan alamat gambar yang benar dan lengkap.
+* Pastikan untuk menggunakan deskripsi gambar yang sesuai dan lengkap.
+* Gunakan atribut `width` dan `height` untuk menentukan ukuran gambar yang tepat.
+* Gunakan atribut `title` untuk menentukan judul gambar yang sesuai.
+* Gunakan atribut `border` untuk menentukan lebar garis sekitar gambar yang sesuai.
