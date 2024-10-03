@@ -1,12 +1,12 @@
-**Definisi HTML**
+# **Definisi HTML**
 
 HTML (Hypertext Markup Language) adalah bahasa markup yang digunakan untuk membuat dokumen web. HTML digunakan untuk memberikan struktur dan konten pada dokumen web, sehingga browser dapat menampilkan dokumen tersebut dengan benar.
 
-**Pengertian HTML**
+## **Pengertian HTML**
 
 HTML adalah bahasa yang digunakan untuk membuat dokumen web yang dapat dibaca oleh browser dan pengguna. HTML digunakan untuk menambahkan teks, gambar, tabel, form, dan elemen lainnya pada dokumen web.
 
-**Ciri-Ciri HTML**
+### **Ciri-Ciri HTML**
 
 Berikut adalah ciri-ciri HTML:
 
@@ -15,7 +15,7 @@ Berikut adalah ciri-ciri HTML:
 3. **Dibaca oleh Pengguna**: HTML dapat dibaca oleh pengguna, sehingga pengguna dapat memahami konten dokumen web.
 4. **Dapat Digunakan untuk Membuat Dokumen Web**: HTML dapat digunakan untuk membuat dokumen web yang dapat dibaca oleh browser dan pengguna.
 
-**Penggunaan HTML**
+### **Penggunaan HTML**
 
 HTML digunakan untuk membuat dokumen web yang dapat dibaca oleh browser dan pengguna. Berikut adalah beberapa contoh penggunaan HTML:
 
@@ -25,7 +25,7 @@ HTML digunakan untuk membuat dokumen web yang dapat dibaca oleh browser dan peng
 4. **Membuat Form**: HTML digunakan untuk membuat form pada dokumen web.
 5. **Membuat Elemen Lainnya**: HTML digunakan untuk membuat elemen lainnya pada dokumen web, seperti tabel, daftar, dan lain-lain.
 
-**Contoh HTML**
+### **Contoh HTML**
 
 Berikut adalah contoh HTML yang sederhana:
 ```html
@@ -43,7 +43,7 @@ Berikut adalah contoh HTML yang sederhana:
 ```
 Dalam contoh di atas, HTML digunakan untuk membuat dokumen web yang memiliki judul, paragraf, dan gambar.
 
-**Sejarah HTML**
+## **Sejarah HTML**
 
 HTML (Hypertext Markup Language) memiliki sejarah yang panjang dan kompleks. Berikut adalah ringkasan sejarah HTML:
 
@@ -57,7 +57,7 @@ HTML (Hypertext Markup Language) memiliki sejarah yang panjang dan kompleks. Ber
 8. **Pengembangan HTML 5 (2008)**: Pada tahun 2008, W3C mulai mengembangkan HTML 5, yang menambahkan beberapa fitur baru, seperti dukungan untuk canvas, video, dan audio.
 9. **Rilis HTML 5 (2014)**: Pada tahun 2014, W3C merilis HTML 5, yang menambahkan beberapa fitur baru, seperti dukungan untuk WebGL dan dukungan untuk aksesibilitas.
 
-**Perkembangan HTML**
+### **Perkembangan HTML**
 
 Perkembangan HTML telah sangat cepat dan signifikan dalam beberapa dekade terakhir. Berikut adalah beberapa fitur utama yang telah ditambahkan pada HTML:
 
@@ -69,7 +69,7 @@ Perkembangan HTML telah sangat cepat dan signifikan dalam beberapa dekade terakh
 
 Dalam keseluruhan, perkembangan HTML telah sangat signifikan dalam beberapa dekade terakhir, dan bahasa markup ini telah menjadi bagian penting dari World Wide Web.
 
-**Kelebihan HTML**
+### **Kelebihan HTML**
 
 Berikut adalah beberapa kelebihan HTML:
 
@@ -81,7 +81,7 @@ Berikut adalah beberapa kelebihan HTML:
 6. **Mudah diadaptasi**: HTML dapat diadaptasi untuk berbagai jenis dokumen web, seperti blog, e-commerce, dan aplikasi web lainnya.
 7. **Dapat digunakan untuk membuat aplikasi web**: HTML dapat digunakan untuk membuat aplikasi web yang kompleks, seperti aplikasi e-commerce, aplikasi pengiriman pesan, dan aplikasi lainnya.
 
-**Kekurangan HTML**
+### **Kekurangan HTML**
 
 Berikut adalah beberapa kekurangan HTML:
 
@@ -95,7 +95,7 @@ Berikut adalah beberapa kekurangan HTML:
 
 Dalam keseluruhan, HTML memiliki kelebihan dan kekurangan, dan pengembang harus mempertimbangkan kebutuhan aplikasi web yang mereka buat sebelum memilih bahasa markup untuk digunakan.
 
-**Tag Dasar HTML**
+## **Tag Dasar HTML**
 
 Tag dasar HTML adalah elemen-elemen dasar yang digunakan untuk membuat struktur dokumen HTML. Berikut adalah contoh tag dasar HTML:
 
@@ -127,7 +127,7 @@ Tag dasar HTML adalah elemen-elemen dasar yang digunakan untuk membuat struktur 
 	<h1>Contoh Dokumen HTML</h1>
 </body>
 ```
-**Struktur Dokumen HTML**
+## **Struktur Dokumen HTML**
 
 Berikut adalah struktur dokumen HTML yang terdiri dari tag dasar:
 
@@ -143,7 +143,7 @@ Berikut adalah struktur dokumen HTML yang terdiri dari tag dasar:
 6. **\</body>**
 7. **\</html>**
 
-**Contoh Dokumen HTML Lengkap**
+### **Contoh Dokumen HTML Lengkap**
 
 Berikut adalah contoh dokumen HTML yang lengkap:
 ```html
@@ -160,7 +160,7 @@ Berikut adalah contoh dokumen HTML yang lengkap:
 ```
 Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang lengkap, yang terdiri dari tag dasar <!DOCTYPE html>, <html>, <head>, <body>, dan elemen-elemen lainnya.
 
-**Struktur Dokumen HTML yang Benar**
+### **Struktur Dokumen HTML yang Benar**
 
 Struktur dokumen HTML yang benar adalah sebagai berikut:
 
@@ -194,7 +194,7 @@ Struktur dokumen HTML yang benar adalah sebagai berikut:
 15. **\</body>**
 16. **\</html>**
 
-**Contoh Dokumen HTML yang Benar**
+### **Contoh Dokumen HTML yang Benar**
 
 Berikut adalah contoh dokumen HTML yang benar:
 ```html
@@ -222,11 +222,11 @@ Berikut adalah contoh dokumen HTML yang benar:
 ```
 Dalam contoh di atas, kita telah menentukan struktur dokumen HTML yang benar, yang terdiri dari tag dasar \<!DOCTYPE html>, \<html>, \<head>, \<body>, dan elemen-elemen lainnya.
 
-**Element \<h1>, \<h2>, \<h3> untuk Judul**
+## **Element \<h1>, \<h2>, \<h3> untuk Judul**
 
 Element `<h1>`, `<h2>`, `<h3>` digunakan untuk menentukan judul pada dokumen HTML. Judul adalah teks yang digunakan untuk memberikan informasi tentang isi dokumen.
 
-**Element \<h1>**
+### **Element \<h1>**
 
 Element `<h1>` digunakan untuk menentukan judul utama pada dokumen HTML. Judul utama adalah judul yang paling penting dan menonjol.
 
@@ -234,7 +234,7 @@ Contoh:
 ```html
 <h1>Contoh Dokumen HTML</h1>
 ```
-**Element \<h2>**
+### **Element \<h2>**
 
 Element `<h2>` digunakan untuk menentukan judul kedua pada dokumen HTML. Judul kedua adalah judul yang penting tetapi tidak sepenting judul utama.
 
@@ -242,7 +242,7 @@ Contoh:
 ```html
 <h2>Sub Judul Utama</h2>
 ```
-**Element \<h3>**
+### **Element \<h3>**
 
 Element `<h3>` digunakan untuk menentukan judul ketiga pada dokumen HTML. Judul ketiga adalah judul yang penting tetapi tidak sepenting judul utama dan judul kedua.
 
@@ -250,7 +250,7 @@ Contoh:
 ```html
 <h3>Sub Sub Judul Utama</h3>
 ```
-**Contoh Dokumen HTML yang Menggunakan Element \<h1>, \<h2>, \<h3>**
+### **Contoh Dokumen HTML yang Menggunakan Element \<h1>, \<h2>, \<h3>**
 
 Berikut adalah contoh dokumen HTML yang menggunakan element `<h1>`, `<h2>`, dan `<h3>`:
 ```html
@@ -269,17 +269,17 @@ Berikut adalah contoh dokumen HTML yang menggunakan element `<h1>`, `<h2>`, dan 
 ```
 Dalam contoh di atas, kita telah menggunakan element `<h1>`, `<h2>`, dan `<h3>` untuk menentukan judul pada dokumen HTML. Judul utama adalah `<h1>Contoh Dokumen HTML</h1>`, judul kedua adalah `<h2>Sub Judul Utama</h2>`, dan judul ketiga adalah `<h3>Sub Sub Judul Utama</h3>`.
 
-**Element <p> untuk Paragraf**
+## **Element \<p> untuk Paragraf**
 
 Element `<p>` digunakan untuk menentukan paragraf pada dokumen HTML. Paragraf adalah blok teks yang terdiri dari beberapa kalimat yang saling terkait.
 
-**Struktur Element \<p>**
+### **Struktur Element \<p>**
 
 Struktur element `<p>` adalah sebagai berikut:
 ```html
 <p>Isi paragraf</p>
 ```
-**Contoh Element \<p>**
+### **Contoh Element \<p>**
 
 Berikut adalah contoh element `<p>`:
 ```html
@@ -297,7 +297,7 @@ Berikut adalah contoh element `<p>`:
 ```
 Dalam contoh di atas, kita telah menggunakan element `<p>` untuk menentukan paragraf pada dokumen HTML. Tiap paragraf memiliki isi yang berbeda-beda.
 
-**Attribut Element \<p>**
+### **Attribut Element \<p>**
 
 Element `<p>` juga memiliki beberapa atribut yang dapat digunakan untuk menentukan karakteristik paragraf. Berikut adalah beberapa atribut yang dapat digunakan:
 * `align`: Digunakan untuk menentukan alignment paragraf, seperti `left`, `right`, atau `center`.
@@ -311,11 +311,11 @@ Contoh penggunaan atribut `align` dan `valign` pada element `<p>`:
 ```
 Dalam contoh di atas, kita telah menggunakan atribut `align` dan `valign` pada element `<p>` untuk menentukan alignment dan vertical alignment paragraf.
 
-**Element \<img> untuk Gambar**
+## **Element \<img> untuk Gambar**
 
 Element `<img>` digunakan untuk menampilkan gambar pada dokumen HTML. Gambar dapat berupa foto, logo, atau icon.
 
-**Struktur Element \<img>**
+### **Struktur Element \<img>**
 
 Struktur element `<img>` adalah sebagai berikut:
 ```html
@@ -323,7 +323,7 @@ Struktur element `<img>` adalah sebagai berikut:
 ```
 Dalam struktur di atas, `src` digunakan untuk menentukan alamat gambar, sedangkan `alt` digunakan untuk menentukan deskripsi gambar.
 
-**Contoh Element \<img>**
+### **Contoh Element \<img>**
 
 Berikut adalah contoh element `<img>`:
 ```html
@@ -340,7 +340,7 @@ Berikut adalah contoh element `<img>`:
 ```
 Dalam contoh di atas, kita telah menggunakan element `<img>` untuk menampilkan gambar pada dokumen HTML. Alamat gambar yang digunakan adalah `gambar.jpg`, sedangkan deskripsi gambar adalah `Gambar Contoh`.
 
-**Attribut Element \<img>**
+### **Attribut Element \<img>**
 
 Element `<img>` juga memiliki beberapa atribut yang dapat digunakan untuk menentukan karakteristik gambar. Berikut adalah beberapa atribut yang dapat digunakan:
 * `src`: Digunakan untuk menentukan alamat gambar.
@@ -356,7 +356,7 @@ Contoh penggunaan atribut `src`, `alt`, `width`, dan `height` pada element `<img
 ```
 Dalam contoh di atas, kita telah menggunakan atribut `src`, `alt`, `width`, dan `height` pada element `<img>` untuk menentukan karakteristik gambar.
 
-**Tips dan Trik**
+### **Tips dan Trik**
 
 * Pastikan untuk menggunakan alamat gambar yang benar dan lengkap.
 * Pastikan untuk menggunakan deskripsi gambar yang sesuai dan lengkap.
@@ -364,11 +364,11 @@ Dalam contoh di atas, kita telah menggunakan atribut `src`, `alt`, `width`, dan 
 * Gunakan atribut `title` untuk menentukan judul gambar yang sesuai.
 * Gunakan atribut `border` untuk menentukan lebar garis sekitar gambar yang sesuai.
 
-**Element \<a> untuk Tautan**
+## **Element \<a> untuk Tautan**
 
 Element `<a>` digunakan untuk menentukan tautan pada dokumen HTML. Tautan adalah link yang dapat digunakan untuk mengakses informasi lainnya.
 
-**Struktur Element \<a>**
+### **Struktur Element \<a>**
 
 Struktur element `<a>` adalah sebagai berikut:
 ```html
@@ -376,7 +376,7 @@ Struktur element `<a>` adalah sebagai berikut:
 ```
 Dalam struktur di atas, `href` digunakan untuk menentukan alamat tautan, sedangkan `teks_tautan` digunakan untuk menentukan teks yang akan digunakan sebagai tautan.
 
-**Contoh Element \<a>**
+### **Contoh Element \<a>**
 
 Berikut adalah contoh element `<a>`:
 ```html
@@ -393,7 +393,7 @@ Berikut adalah contoh element `<a>`:
 ```
 Dalam contoh di atas, kita telah menggunakan element `<a>` untuk menentukan tautan pada dokumen HTML. Alamat tautan yang digunakan adalah `https://www.google.com`, sedangkan teks tautan adalah `Klik untuk ke Google`.
 
-**Attribut Element \<a>**
+### **Attribut Element \<a>**
 
 Element `<a>` juga memiliki beberapa atribut yang dapat digunakan untuk menentukan karakteristik tautan. Berikut adalah beberapa atribut yang dapat digunakan:
 * `href`: Digunakan untuk menentukan alamat tautan.
@@ -407,7 +407,7 @@ Contoh penggunaan atribut `href`, `title`, `target`, dan `rel` pada element `<a>
 ```
 Dalam contoh di atas, kita telah menggunakan atribut `href`, `title`, `target`, dan `rel` pada element `<a>` untuk menentukan karakteristik tautan.
 
-**Tips dan Trik**
+### **Tips dan Trik**
 
 * Pastikan untuk menggunakan alamat tautan yang benar dan lengkap.
 * Pastikan untuk menggunakan teks tautan yang sesuai dan lengkap.
@@ -415,11 +415,11 @@ Dalam contoh di atas, kita telah menggunakan atribut `href`, `title`, `target`, 
 * Gunakan atribut `target` untuk menentukan target tautan yang sesuai.
 * Gunakan atribut `rel` untuk menentukan relasi tautan yang sesuai.
 
-**Atribut id dan Class**
+## **Atribut id dan Class**
 
 Atribut `id` dan `class` digunakan untuk menentukan identitas dan kelas pada elemen HTML.
 
-**Atribut id**
+### **Atribut id**
 
 Atribut `id` digunakan untuk menentukan identitas unik pada elemen HTML. Identitas unik ini dapat digunakan untuk mengidentifikasi elemen yang spesifik.
 
@@ -429,7 +429,7 @@ Contoh penggunaan atribut `id`:
 ```
 Dalam contoh di atas, atribut `id` digunakan untuk menentukan identitas unik pada elemen `<div>`. Identitas unik ini dapat digunakan untuk mengidentifikasi elemen yang spesifik.
 
-**Atribut class**
+### **Atribut class**
 
 Atribut `class` digunakan untuk menentukan kelas pada elemen HTML. Kelas dapat digunakan untuk mengidentifikasi grup elemen yang memiliki karakteristik yang sama.
 
@@ -440,7 +440,7 @@ Contoh penggunaan atribut `class`:
 ```
 Dalam contoh di atas, atribut `class` digunakan untuk menentukan kelas pada elemen `<div>`. Kelas `header` digunakan untuk mengidentifikasi elemen yang memiliki karakteristik yang sama, yaitu sebagai header.
 
-**Contoh Penggunaan Atribut id dan class Bersamaan**
+### **Contoh Penggunaan Atribut id dan class Bersamaan**
 
 Contoh penggunaan atribut `id` dan `class` bersamaan:
 ```html
@@ -448,13 +448,13 @@ Contoh penggunaan atribut `id` dan `class` bersamaan:
 ```
 Dalam contoh di atas, atribut `id` digunakan untuk menentukan identitas unik pada elemen `<div>`, sedangkan atribut `class` digunakan untuk menentukan kelas pada elemen `<div>`.
 
-**Tips dan Trik**
+### **Tips dan Trik**
 
 * Pastikan untuk menggunakan atribut `id` dan `class` yang unik dan tidak berselang-seling.
 * Pastikan untuk menggunakan atribut `id` dan `class` yang sesuai dengan konteks elemen.
 * Gunakan atribut `id` untuk mengidentifikasi elemen yang spesifik, sedangkan gunakan atribut `class` untuk mengidentifikasi grup elemen yang memiliki karakteristik yang sama.
 
-**Contoh Penggunaan Atribut id dan class dalam CSS**
+### **Contoh Penggunaan Atribut id dan class dalam CSS**
 
 Contoh penggunaan atribut `id` dan `class` dalam CSS:
 ```css
@@ -470,11 +470,11 @@ Contoh penggunaan atribut `id` dan `class` dalam CSS:
 ```
 Dalam contoh di atas, atribut `id` dan `class` digunakan dalam CSS untuk mengidentifikasi elemen yang spesifik dan mengatur properti CSS yang sesuai.
 
-**Atribut src dan href**
+## **Atribut src dan href**
 
 Atribut `src` dan `href` digunakan untuk menentukan alamat sumber dan hyperlink pada elemen HTML.
 
-**Atribut src**
+### **Atribut src**
 
 Atribut `src` digunakan untuk menentukan alamat sumber suatu file, seperti gambar, video, atau audio. Atribut `src` digunakan pada elemen `<img>`, `<video>`, `<audio>`, dan elemen lainnya.
 
@@ -484,7 +484,7 @@ Contoh penggunaan atribut `src`:
 ```
 Dalam contoh di atas, atribut `src` digunakan untuk menentukan alamat sumber suatu file gambar, yaitu `gambar.jpg`.
 
-**Atribut href**
+### **Atribut href**
 
 Atribut `href` digunakan untuk menentukan alamat hyperlink pada elemen HTML. Atribut `href` digunakan pada elemen `<a>`, `<link>`, dan elemen lainnya.
 
@@ -494,7 +494,7 @@ Contoh penggunaan atribut `href`:
 ```
 Dalam contoh di atas, atribut `href` digunakan untuk menentukan alamat hyperlink pada elemen `<a>`, yaitu `https://www.google.com`.
 
-**Contoh Penggunaan Atribut src dan href Bersamaan**
+### **Contoh Penggunaan Atribut src dan href Bersamaan**
 
 Contoh penggunaan atribut `src` dan `href` bersamaan:
 ```html
@@ -504,13 +504,13 @@ Contoh penggunaan atribut `src` dan `href` bersamaan:
 ```
 Dalam contoh di atas, atribut `src` digunakan untuk menentukan alamat sumber suatu file gambar, yaitu `gambar.jpg`, sedangkan atribut `href` digunakan untuk menentukan alamat hyperlink pada elemen `<a>`, yaitu `https://www.google.com`.
 
-**Tips dan Trik**
+### **Tips dan Trik**
 
 * Pastikan untuk menggunakan atribut `src` dan `href` yang benar dan lengkap.
 * Pastikan untuk menggunakan atribut `src` dan `href` yang sesuai dengan konteks elemen.
 * Gunakan atribut `src` untuk menentukan alamat sumber suatu file, sedangkan gunakan atribut `href` untuk menentukan alamat hyperlink.
 
-**Contoh Penggunaan Atribut src dan href dalam CSS**
+### **Contoh Penggunaan Atribut src dan href dalam CSS**
 
 Contoh penggunaan atribut `src` dan `href` dalam CSS:
 ```css
@@ -526,11 +526,11 @@ a[href^="https://"] {
 ```
 Dalam contoh di atas, atribut `src` dan `href` digunakan dalam CSS untuk mengidentifikasi elemen yang spesifik dan mengatur properti CSS yang sesuai.
 
-**Atribut style**
+## **Atribut style**
 
 Atribut `style` digunakan untuk menentukan gaya dan tata letak pada elemen HTML. Atribut `style` dapat digunakan untuk mengatur properti seperti warna, ukuran, font, dan lain-lain.
 
-**Contoh Penggunaan Atribut style**
+### **Contoh Penggunaan Atribut style**
 
 Contoh penggunaan atribut `style`:
 ```html
@@ -538,7 +538,7 @@ Contoh penggunaan atribut `style`:
 ```
 Dalam contoh di atas, atribut `style` digunakan untuk menentukan gaya pada elemen `<p>`. Atribut `style` menentukan warna teks menjadi biru (`color: blue;`) dan ukuran teks menjadi 24 pixel (`font-size: 24px;`).
 
-**Properti yang Dapat Digunakan pada Atribut style**
+### **Properti yang Dapat Digunakan pada Atribut style**
 
 Berikut adalah beberapa properti yang dapat digunakan pada atribut `style`:
 
@@ -549,7 +549,7 @@ Berikut adalah beberapa properti yang dapat digunakan pada atribut `style`:
 * `padding`: Menentukan jarak antara teks dan tepi elemen.
 * `margin`: Menentukan jarak antara elemen dan elemen lainnya.
 
-**Contoh Penggunaan Atribut style untuk Mengatur Properti**
+### **Contoh Penggunaan Atribut style untuk Mengatur Properti**
 
 Contoh penggunaan atribut `style` untuk mengatur properti:
 ```html
@@ -557,13 +557,13 @@ Contoh penggunaan atribut `style` untuk mengatur properti:
 ```
 Dalam contoh di atas, atribut `style` digunakan untuk menentukan gaya pada elemen `<p>`. Atribut `style` menentukan warna teks menjadi biru (`color: blue;`), ukuran teks menjadi 24 pixel (`font-size: 24px;`), dan jenis font menjadi Arial (`font-family: Arial;`).
 
-**Tips dan Trik**
+### **Tips dan Trik**
 
 * Pastikan untuk menggunakan atribut `style` yang benar dan lengkap.
 * Pastikan untuk menggunakan atribut `style` yang sesuai dengan konteks elemen.
 * Gunakan atribut `style` untuk mengatur properti yang sesuai dengan kebutuhan.
 
-**Contoh Penggunaan Atribut style dalam CSS**
+### **Contoh Penggunaan Atribut style dalam CSS**
 
 Contoh penggunaan atribut `style` dalam CSS:
 ```css
